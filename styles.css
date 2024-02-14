@@ -83,7 +83,7 @@ body {
   .card-inside {
     position: absolute;
     background-color: #FFFFFF;
-    background: url("header-logo.svg") no-repeat center;
+    background: url("photo3.jpg") no-repeat center;
     width: 300px;
     height:300px;
     z-index:-1;
@@ -173,7 +173,7 @@ body {
   .text-one:before {
     content:"Valentine's";
     top:30px;
-    color: #d04e4e;
+    color: black;
   }
   
   .text-one:after {
